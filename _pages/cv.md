@@ -46,6 +46,11 @@ One-page CV: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.p
 * Kafka
 * Variational inference, LSTM, NLP
 
+## Languages
+* English: advanced
+* French: advanced
+* Vietnamese: mother tongue
+
 <!---
 Publications
 ======
