@@ -24,7 +24,7 @@ Work experience & professional activities
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Detecting sablefish from passive acoustic data using CNN
-  * 1 research prototype being used in real-life application
+  #* 1 research prototype being used in real-life application
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
   * Physics informed machine learning
