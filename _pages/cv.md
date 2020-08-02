@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020 (expected)
+* M.S. (<strong>summa cum laude</strong>) in Signal and Image Processing, <a href="https://www.univ-rennes1.fr/">University of Rennes 1</a>, 2017
+* Diplôme d'Ingénieur in Machine Learning, <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2017
+
+
 
 Work experience
 ======
