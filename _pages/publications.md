@@ -11,11 +11,12 @@ author_profile: true
 
 ## Preprints
 
-* **D Nguyen**, R Vadaine, G Hajduch, R Garello, R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, 2019, (<a href= "https://arxiv.org/abs/1912.00682"> pdf.</a>)
-* **D Nguyen**, S Ouala, L Drumetz, R Fablet, **EM-like learning chaotic dynamics from noisy and partial observations**, 2019, (<a href= "https://arxiv.org/abs/1903.10335"> pdf.</a>)
+* **D Nguyen**, R Vadaine, G Hajduch, R Garello, R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, 2019, (<a href= "https://arxiv.org/abs/1912.00682">pdf</a>).
+* **D Nguyen**, S Ouala, L Drumetz, R Fablet, **EM-like learning chaotic dynamics from noisy and partial observations**, 2019, (<a href= "https://arxiv.org/abs/1903.10335"> pdf</a>).
 
 
 ## Selected publications
+* **D Nguyen**, S Ouala, L Drumetz, R Fablet, **Assimilation-based Learning of Chaotic Dynamical Systems from Noisy and Partial Data**, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, (<a href= "https://www.researchgate.net/profile/Duong_Nguyen138/publication/341084271_Assimilation-Based_Learning_of_Chaotic_Dynamical_Systems_from_Noisy_and_Partial_Data/links/5eaf4dca45851592d6b84e14/Assimilation-Based-Learning-of-Chaotic-Dynamical-Systems-from-Noisy-and-Partial-Data.pdf">pdf</a>).
 
 <!-- {% include base_path %}
 
