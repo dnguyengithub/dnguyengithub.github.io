@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duong Nguyen / PhD Candidate"
+title                    : "Duong Nguyen"
 title_separator          : "-"
 name                     : &name "Duong Nguyen"
 description              : &description "personal description"
