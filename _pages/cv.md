@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 One-page CV: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.pdf</a>
 
-Education
-======
+## Education
+
 * <strong>Ph.D</strong> in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020 (expected)
 * <strong>M.S.</strong> (<strong>summa cum laude</strong>) in Signal and Image Processing, <a href="https://www.univ-rennes1.fr/">University of Rennes 1</a>, 2017
 * <strong>Diplôme d'Ingénieur</strong> in Machine Learning, <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2017
 
 
-Work experience & professional activities
-======
+## Work experience & professional activities
+
 * 02/2020-03/2020: <strong>Visiting fellow</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
   * Evaluation/Implementation of <a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a> on CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>
 
@@ -40,8 +40,8 @@ Work experience & professional activities
 * 06/2015-08/2015: <strong>Research intern</strong>, <a href="https://www.siit.tu.ac.th">Thammasat University, SIIT</a>
   * Glistening detection using Tabu search - kNN and Neural Network
   
-Skills
-======
+## Skills
+
 * Linux
 * Python 
   * Pytorch, Tensorflow
