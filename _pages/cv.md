@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Link to one-page CV (<a href="https://dnguyengithub.github.io/files/CV_English.pdf">pdf</a>)
+One-page CV: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.pdf</a>
 
 Education
 ======
@@ -20,13 +20,20 @@ Education
 
 Work experience & professional activities
 ======
-* 02/2020-03/2020: Visiting fellow, <a href="https://www.cls.fr/en/cls-group/">CLS (Collecte Localisation Satellites)</a>
+* 02/2020-03/2020: <strong>Visiting fellow</strong>, <a href="https://www.cls.fr/en/cls-group/">CLS (Collecte Localisation Satellites)</a>
   * Evaluation/Implementation of <a href="https://arxiv.org/pdf/1912.00682.pdf/">GeoTrackNet</a> on CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system/">MAS (Maritime Awareness System)</a>.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca/">Dalhousie Institute for Big Data Analytics</a>
+  * Detecting sablefish from passive acoustic data using CNN.
+  * 1 research prototype being used in real-life application.
+
+* 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu/">University of Washington, College of Engineering</a>
+  * Physics informed machine learning.
+  * 1 publication.
+  
+* 09/2018-11/2018: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca/">Dalhousie Institute for Big Data Analytics</a>
+  * Acoustic anomaly detection.
+  * 1 <a href=" https://ieeexplore.ieee.org/abstract/document/8682901">publication</a>.
   
 Skills
 ======
