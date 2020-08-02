@@ -24,14 +24,12 @@ Work experience & professional activities
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Detecting sablefish from passive acoustic data using CNN
-  [//]: # "* 1 research prototype being used in real-life application"
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
   * Physics informed machine learning
   
 * 09/2018-11/2018: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Acoustic anomaly detection
-  * 1 <a href=" https://ieeexplore.ieee.org/abstract/document/8682901">publication</a>
   
 * 03/2017-09/2017: <strong>Engineering intern</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
   * Synergies between SAR and AIS data for the surveillance of maritime traffic
