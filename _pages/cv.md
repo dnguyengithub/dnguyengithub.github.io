@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Link to one-page CV (<a href="https://dnguyengithub.github.io/files/CV_English.pdf">pdf</a>)
 
 Education
 ======
@@ -19,10 +20,8 @@ Education
 
 Work experience & professional activities
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 02/2020-03/2020: Visiting fellow, <a href="https://www.cls.fr/en/cls-group/">CLS (Collecte Localisation Satellites)</a>
+  * Evaluation/Implementation of <a href="https://arxiv.org/pdf/1912.00682.pdf/">GeoTrackNet</a> on CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system/">MAS (Maritime Awareness System)</a>.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -31,12 +30,12 @@ Work experience & professional activities
   
 Skills
 ======
-* 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Linux
+* Python 
+  * Pytorch, Tensorflow
+  * Scikit-learn
+* Kafka
+* RNN, NLP, Variational inference
 
 <!---
 Publications
