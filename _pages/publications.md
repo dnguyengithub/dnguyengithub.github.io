@@ -11,8 +11,8 @@ author_profile: true
 
 ## Preprints
 
-* **D Nguyen**, R Vadaine, G Hajduch, R Garello, R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, 2019, (<a href= "https://arxiv.org/abs/1912.00682.</a>)
-* **D Nguyen**, S Ouala, L Drumetz, R Fablet, **EM-like learning chaotic dynamics from noisy and partial observations**, 2019, (<a href= "https://arxiv.org/abs/1903.10335.</a>)
+* **D Nguyen**, R Vadaine, G Hajduch, R Garello, R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, 2019, (<a href= "https://arxiv.org/abs/1912.00682 pdf.</a>)
+* **D Nguyen**, S Ouala, L Drumetz, R Fablet, **EM-like learning chaotic dynamics from noisy and partial observations**, 2019, (<a href= "https://arxiv.org/abs/1903.10335 pdf.</a>)
 
 
 ## Selected publications
