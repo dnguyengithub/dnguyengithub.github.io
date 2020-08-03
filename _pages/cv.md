@@ -21,7 +21,7 @@ One-page CV: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.p
   * Evaluation/Implementation of <a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a> on CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
-  * Detecting sablefish from passive acoustic data using CNN
+  * Sablefish detection from passive acoustic data using CNN
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
   * Physics informed machine learning
