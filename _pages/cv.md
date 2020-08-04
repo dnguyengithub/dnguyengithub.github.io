@@ -18,25 +18,30 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">
 
 ## Work experience & professional activities
 * 02/2020-03/2020: <strong>Visiting fellow</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
-  * Evaluation/Implementation of <a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a> on CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>
+  * Worked with AIS experts at CLS to evaluate my research prototype---<a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a>.
+  * Discussed with engineers at CLS to integrate GeoTrackNet into CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>.
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
-  * Sablefish detection from passive acoustic data using CNN
+  * Created a deep learning model to detect sablefish from maritime passive acoustic data.
+  * The detector is under consideration for being used in reaf-life by Canadian marine biologist. 
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
-  * Physics informed machine learning
+  * Established the collaboration between the The University of Washington College of Engineering and IMT Atlantique.
+  * Attended the Physics informed machine learning workshop.
   
 * 09/2018-11/2018: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
-  * Acoustic anomaly detection
+  * Created a deep learning model to detect abnormal events in acoustic surveillance using Recurrent neural networks with stochastic layers.
   
 * 03/2017-09/2017: <strong>Engineering intern</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
-  * Synergies between SAR and AIS data for the surveillance of maritime traffic
+  * Made statistic reports of the fusion of SAR and AIS data for maritime traffic surveillance.
+  * Improved the software that combines SAR and AIS data for maritime traffic surveillance.
+  * Finished the task 1.5 months ahead of schedule.
 
 * 07/2016-03/2017: <strong>Research intern</strong>, <a href="https://www.inserm.fr">INSERM (Institut national de la santé et de la recherche médicale)</a>
-  * Evaluation of the resolution and the precision of 3D ultrasound
+  * Evaluated the resolution and the precision of 3D ultrasound
   
 * 06/2015-08/2015: <strong>Research intern</strong>, <a href="https://www.siit.tu.ac.th">Thammasat University, SIIT</a>
-  * Glistening detection using Tabu search - kNN and Neural Network
+  * Impoved the glistening detection software using Tabu search - kNN and Neural Network
   
 ## Skills
 * Linux
