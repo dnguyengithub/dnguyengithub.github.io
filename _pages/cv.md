@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-One-page CV: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.pdf</a>
+One-page resume: <a href="https://dnguyengithub.github.io/files/CV_English.pdf">CV.pdf</a>
 
 ## Education
 * <strong>Ph.D</strong> in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020 (expected)
