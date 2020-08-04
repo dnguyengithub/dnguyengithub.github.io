@@ -38,10 +38,10 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resu
   * Finished the task 1.5 months ahead of schedule.
 
 * 07/2016-03/2017: <strong>Research intern</strong>, <a href="https://www.inserm.fr">INSERM (Institut national de la santé et de la recherche médicale)</a>
-  * Evaluated the resolution and the precision of 3D ultrasound
+  * Evaluated the resolution and the precision of 3D ultrasound.
   
 * 06/2015-08/2015: <strong>Research intern</strong>, <a href="https://www.siit.tu.ac.th">Thammasat University, SIIT</a>
-  * Impoved the glistening detection software using Tabu search - kNN and Neural Network
+  * Impoved the glistening detection software using Tabu search - kNN and Neural Network.
   
 ## Skills
 * Linux
