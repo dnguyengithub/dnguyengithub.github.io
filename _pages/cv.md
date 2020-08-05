@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resume.pdf</a>
+One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pdf">Resume.pdf</a>
 
 ## Education
 * <strong>Ph.D.</strong> in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020 (expected)
@@ -18,8 +18,8 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resu
 
 ## Work experience & professional activities
 * 02/2020-03/2020: <strong>Visiting fellow</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
-  * Worked with AIS experts at CLS to evaluate my research prototype---<a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a>.
-  * Discussed with engineers at CLS to integrate GeoTrackNet into CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>.
+  * Worked with AIS experts at CLS to evaluate my research prototype---<a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a>: on real-life data: tested the limits of the model, explained the results.
+  * Discussed with engineers at CLS to integrate GeoTrackNet into CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>: how to run the model in a distributed system and in real-time.
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Created a deep learning model to detect sablefish from maritime passive acoustic data.
@@ -27,7 +27,6 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resu
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
   * Established the collaboration between the The University of Washington College of Engineering and IMT Atlantique.
-  * Attended the Physics informed machine learning workshop.
   
 * 09/2018-11/2018: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Created a deep learning model to detect abnormal events in acoustic surveillance using Recurrent neural networks with stochastic layers.
@@ -35,7 +34,7 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resu
 * 03/2017-09/2017: <strong>Engineering intern</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
   * Made statistic reports of the fusion of SAR and AIS data for maritime traffic surveillance.
   * Improved the software that combines SAR and AIS data for maritime traffic surveillance.
-  * Finished the task 1.5 months ahead of schedule.
+  * Finished the task 1.5 months ahead of schedule with excellent results.
 
 * 07/2016-03/2017: <strong>Research intern</strong>, <a href="https://www.inserm.fr">INSERM (Institut national de la santé et de la recherche médicale)</a>
   * Evaluated the resolution and the precision of 3D ultrasound.
@@ -45,7 +44,7 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume.pdf">Resu
   
 ## Skills
 * Linux
-* Python 
+* Python (6 years of experience)
   * Pytorch, Tensorflow
   * Scikit-learn
 * Kafka
