@@ -26,7 +26,7 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pd
   * The detector is under consideration for being used in real-life by Canadian marine biologist. 
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
-  * Established the collaboration between the The University of Washington College of Engineering and IMT Atlantique.
+  * Established the collaboration between the University of Washington College of Engineering and IMT Atlantique.
   
 * 09/2018-11/2018: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Created a deep learning model to detect abnormal events in acoustic surveillance using Recurrent neural networks with stochastic layers.
