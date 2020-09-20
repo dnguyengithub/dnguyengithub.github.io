@@ -23,7 +23,7 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pd
 
 * 09/2019-11/2019: <strong>Visiting graduate student</strong>, <a href="https://bigdata.cs.dal.ca">Dalhousie Institute for Big Data Analytics</a>
   * Created a deep learning model to detect sablefish from maritime passive acoustic data.
-  * The detector is under consideration for being used in real-life by Canadian marine biologist. 
+  * The detector is under consideration for being used in real-life by Canadian marine biologists. 
 
 * 05/2019-06/2019: <strong>Visiting graduate student</strong>, <a href="https://www.engr.washington.edu">University of Washington, College of Engineering</a>
   * Established the collaboration between the University of Washington College of Engineering and IMT Atlantique.
