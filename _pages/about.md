@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a> and a research scientist at <a href="https://www.lab-sticc.fr">Lab-STICC</a>. I am also a collaborator of <a href="https://meridian.cs.dal.ca">MERIDIAN</a> and a mentor at <a href="https://funix.edu.vn">FUNiX</a>. My research interests focus on  the study of <strong>Machine Learning (Deep Learning)</strong> for <strong>time series analysis</strong>, especially for stochastic, noisy and irregularly sampled data.
+I am a PhD Candidate at <a href="https://www.imt-atlantique.fr">IMT Atlantique</a> and a research scientist at <a href="https://www.lab-sticc.fr">Lab-STICC</a>. I am also a collaborator of <a href="https://meridian.cs.dal.ca">MERIDIAN</a>. My research interests focus on  the study of <strong>Machine Learning (Deep Learning)</strong> for <strong>time series analysis</strong>, especially for stochastic, noisy and irregularly sampled data.
 
 ## Recent posts
 {% for post in site.posts %}
