@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the full list of my articles on <a href="https://scholar.google.com/citations?user=jLtTFrIAAAAJ&hl=en">my Google Scholar profile</a>.
+A full list of my publications can be found on <a href="https://scholar.google.com/citations?user=jLtTFrIAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ## Preprints
 * **D Nguyen**, S Ouala, L Drumetz, R Fablet, **Variational Deep Learning for the Identification and Reconstruction of Chaotic and Stochastic Dynamical Systems from Noisy and Partial Observations**, submitted to  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, (<a href= "https://arxiv.org/abs/2009.02296">pdf</a>).
