@@ -31,6 +31,7 @@ An Interdisciplinary Journal of Nonlinear Science, 2020, (<a href= "https://aip.
 * **D Nguyen**, S Ouala, L Drumetz and R Fablet, **Learning Chaotic and Stochastic Dynamics from Noisy and Partial Observation using Variational Deep Learning**, 10th International Conference on Climate Informatics (CI), 2020. 
 * S Ouala, R Fablet, **D Nguyen**, L Drumetz, B Chapron, A Pascual, F Collard, and L Gaultier, **Data assimilation schemes as a framework for learning dynamical model
 from partial and noisy observations**, General Assembly of the European Geosciences Union (EGU), 2019.
+
 <!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
