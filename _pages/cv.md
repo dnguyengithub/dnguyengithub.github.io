@@ -17,7 +17,7 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pd
 
 
 ## Work experience & professional activities
-* 02/2020-03/2020: <strong>Visiting fellow</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
+* 02/2020-03/2020: <strong>Applied AI Scientist</strong>, <a href="https://www.cls.fr/en/cls-group">CLS (Collecte Localisation Satellites)</a>
   * Worked with AIS experts at CLS to evaluate my research prototype---<a href="https://arxiv.org/pdf/1912.00682.pdf">GeoTrackNet</a>: on real-life data: tested the limits of the model, explained the results.
   * Discussed with engineers at CLS to integrate GeoTrackNet into CLS's Big data system <a href="https://maritime-intelligence.groupcls.com/integrated-solutions/maritime-awareness-system">MAS (Maritime Awareness System)</a>: how to run the model in a distributed system and in real-time.
 
