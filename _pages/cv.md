@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pdf">Resume.pdf</a>
+One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pdf">Resume_public.pdf</a>
 
 ## Education
-* <strong>Ph.D.</strong> in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020 (expected)
+* <strong>Ph.D.</strong> in Machine Learning (Deep Learning), <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2020
 * <strong>M.S.</strong> (<strong>summa cum laude</strong>) in Signal and Image Processing, <a href="https://www.univ-rennes1.fr/">University of Rennes 1</a>, 2017
 * <strong>Diplôme d'Ingénieur</strong> in Machine Learning, <a href="https://www.imt-atlantique.fr">IMT Atlantique</a>, 2017
 
