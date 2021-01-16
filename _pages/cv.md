@@ -47,6 +47,8 @@ One-page resume: <a href="https://dnguyengithub.github.io/files/Resume_public.pd
 * Python (6 years of experience)
   * Pytorch, Tensorflow
   * Scikit-learn
+* Git
+* SQL, noSQL
 * Kafka
 * Variational inference, LSTM, NLP
 
