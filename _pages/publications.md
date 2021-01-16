@@ -8,12 +8,12 @@ author_profile: true
 A full list of my publications can be found on <a href="https://scholar.google.com/citations?user=jLtTFrIAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ## Preprints
-* **D Nguyen**, S Ouala, L Drumetz, and R Fablet, **Variational Deep Learning for the Identification and Reconstruction of Chaotic and Stochastic Dynamical Systems from Noisy and Partial Observations**, submitted to  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, (<a href= "https://arxiv.org/abs/2009.02296">pdf</a>).
-* **D Nguyen**, R Vadaine, G Hajduch, R Garello, and R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2019, (<a href= "https://arxiv.org/abs/1912.00682">pdf</a>).
+* **D Nguyen**, S Ouala, L Drumetz, and R Fablet, **Variational Deep Learning for the Identification and Reconstruction of Chaotic and Stochastic Dynamical Systems from Noisy and Partial Observations**, 2020, (<a href= "https://arxiv.org/abs/2009.02296">pdf</a>).
 * **D Nguyen**, S Ouala, L Drumetz, and R Fablet, **EM-like Learning Chaotic Dynamics from Noisy and Partial Observations**, 2019, (<a href= "https://arxiv.org/abs/1903.10335">pdf</a>).
 
 
 ## Journal papers
+* **D Nguyen**, R Vadaine, G Hajduch, R Garello, and R Fablet, **GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection**, IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020, (<a href= "https://arxiv.org/abs/1912.00682">pdf</a>).
 * S Ouala, **D Nguyen**, L Drumetz, B Chapron, A Pascual, F Collard, L Gaultier, and 
 R Fablet, **Learning Latent Dynamics for Partially-Observed Chaotic Systems**, Chaos:
 An Interdisciplinary Journal of Nonlinear Science, 2020, (<a href= "https://aip.scitation.org/doi/10.1063/5.0019309">pdf</a>).
